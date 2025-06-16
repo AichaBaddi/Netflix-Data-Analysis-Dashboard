@@ -58,7 +58,7 @@ This project presents a visual analysis of Netflix’s content using Tableau. Th
 - 📄 [README.md](README.md)                                     # Project documentation
 - 📄 [Netflix.csv](Netflix.csv)                                 # Original dataset used in Tableau
 - 📷 [dashboard-screenshot.png](dashboard-screenshot.PNG)      # Image of the final dashboard
-- 🎥 [dashboard-video.wmv](dashboard-video.WMV)                # Video of the final dashboard
+- 🎥 [dashboard-video.wmv](dashboard-video.wmv)                # Video of the final dashboard
 
 
 
