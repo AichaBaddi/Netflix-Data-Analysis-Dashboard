@@ -52,7 +52,7 @@ This project presents a visual analysis of Netflix’s content using Tableau. Th
 ## 🗂️ Project Structure
 📄 [Netflix.csv](Netflix.csv)
 📊 Tableau_Dashboard
-📷 [dashboard-screenshot.png](dashboard-screenshot.png)
+📷 [dashboard-screenshot.png](dashboard-screenshot.PNG)
  
 
 
