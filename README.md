@@ -54,11 +54,11 @@ This project presents a visual analysis of Netflix’s content using Tableau. Th
 ## 🗂️ Project Structure
 
 📁 netflix-dashboard/
-- 📊 [Tableau_Dashboard]                                        # Tableau workbook file
-- 📄 [README.md](README.md)                                     # Project documentation
-- 📄 [Netflix.csv](Netflix.csv)                                 # Original dataset used in Tableau
-- 📷 [dashboard-screenshot.png](dashboard-screenshot.PNG)      # Image of the final dashboard
-- 🎥 [dashboard-video.wmv](dashboard-video.wmv)                # Video of the final dashboard
+- 📊 [Tableau_Dashboard](https://public.tableau.com/app/profile/aicha.baddi/viz/netflix_17473621375300/Netflix) # Tableau workbook file
+- 📄 [README.md](README.md) # Project documentation
+- 📄 [Netflix.csv](Netflix.csv) # Original dataset used in Tableau
+- 📷 [dashboard-screenshot.png](dashboard-screenshot.PNG) # Image of the final dashboard
+- 🎥 [dashboard-video.wmv](dashboard-video.wmv) # Video of the final dashboard
 
 
 
