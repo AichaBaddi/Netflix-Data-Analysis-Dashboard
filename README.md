@@ -12,6 +12,8 @@ This project presents a visual analysis of Netflix’s content using Tableau. Th
 - Explore trends in content release years and additions.
 
 ---
+![dashboard-screenshot](https://github.com/user-attachments/assets/f86f5f04-b36f-49c0-9ef1-813ea79bfc01)
+
 
 ## 📊 Dashboard Insights
 
@@ -50,9 +52,16 @@ This project presents a visual analysis of Netflix’s content using Tableau. Th
 ---
 
 ## 🗂️ Project Structure
-📄 [Netflix.csv](Netflix.csv)
-📊 Tableau_Dashboard
-📷 [dashboard-screenshot.png](dashboard-screenshot.PNG)
+```plaintext
+📁 netflix-dashboard/
+├── 📊 [Tableau_Dashboard]                                        # Tableau workbook file
+├── 📄 [README.md](README.md)                                     # Project documentation
+├── 📄 [Netflix.csv](Netflix.csv)                                 # Original dataset used in Tableau
+├── 📷 [dashboard-screenshot.png](dashboard-screenshot.PNG)      # Image of the final dashboard
+└── 🎥 [dashboard-video.wmv](dashboard-video.WMV)                # Video of the final dashboard
+          
+
+
  
 
 
